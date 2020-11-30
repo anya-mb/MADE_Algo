@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project_5working"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_5c">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_5c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_5c"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_5c/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_5c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_5c/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_5b">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_5b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_5b"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_5b/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_5b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_5b/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_4a">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_4a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_4a"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_4a/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_4a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_4a/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_3c">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_3c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_3c"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_3c/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_3c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_3c/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_4c">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_4c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_4c"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_4c/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_4c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_4c/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_4b">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_4b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_4b"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_4b/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_4b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_4b/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_3a">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_3a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_3a"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_3a/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_3a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_3a/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_5working">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_5working" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_5working"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_5working/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_5working" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_5working/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_4d">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_4d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_4d"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_4d/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_4d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_4d/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_3b">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_3b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_3b"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_3b/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_3b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_3b/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proj_a">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/proj_a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 proj_a"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proj_a/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/proj_a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 proj_a/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project2">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project2/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_3e">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_3e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_3e"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_3e/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_3e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_3e/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_3d">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_3d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_3d"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_3d/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_3d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_3d/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_5a">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_5a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_5a"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_5a/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/project_5a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_5a/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proj">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/proj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 proj"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proj/fast">
+				<Option output="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/proj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 proj/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw2_task_A_k_stat.cpp">
+			<Option target="proj_a"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw2_task_D.cpp">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw3_task_A.cpp">
+			<Option target="project_3a"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw3_task_B.cpp">
+			<Option target="project_3b"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw3_task_C.cpp">
+			<Option target="project_3c"/>
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw3_task_D.cpp">
+			<Option target="project_3d"/>
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw3_task_E.cpp">
+			<Option target="project_3e"/>
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw4_task_A_stack_min.cpp">
+			<Option target="project_4a"/>
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw4_task_B.cpp">
+			<Option target="project_4b"/>
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw4_task_C_queue.cpp">
+			<Option target="project_4c"/>
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw4_task_D_heap.cpp">
+			<Option target="project_4d"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw5_task_A_set.cpp">
+			<Option target="project_5a"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw5_task_B_map.cpp">
+			<Option target="project_5b"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw5_task_C_linked_map.cpp">
+			<Option target="project_5c"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw5_task_C_working.cpp">
+			<Option target="project_5working"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw5_task_D_multimap.cpp">
+			<Option target="project_5c"/>
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/main.cpp">
+			<Option target="project2"/>
+		</Unit>
+		<Unit filename="/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

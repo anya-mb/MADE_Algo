@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw9_task_C_move_to_begin_treap.cpp
+iostream
+-
+vector
+-
+assert.h
+-
+cstdlib
+-
+

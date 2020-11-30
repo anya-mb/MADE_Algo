@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw10_task_B_praphs_dfs.cpp
+iostream
+-
+vector
+-
+

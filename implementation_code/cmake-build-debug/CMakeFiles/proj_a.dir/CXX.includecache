@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw2_task_A_k_stat.cpp
+iostream
+-
+vector
+-
+

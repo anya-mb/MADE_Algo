@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/annabeketova/Yandex.Disk.localized/MADE2020/Algo/project2/hw6_task_C_dynamic_prog_sequence.cpp
+iostream
+-
+string
+-
+assert.h
+-
+vector
+-
+
